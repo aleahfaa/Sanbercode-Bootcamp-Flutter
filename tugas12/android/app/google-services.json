@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "839835064192",
+    "project_id": "tugas12-sanber",
+    "storage_bucket": "tugas12-sanber.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839835064192:android:aadda96f3ce37f1ee05365",
+        "android_client_info": {
+          "package_name": "com.example.tugas12"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkevn0bxQ1G66gi78KB6lCobzCvxy90Rc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
