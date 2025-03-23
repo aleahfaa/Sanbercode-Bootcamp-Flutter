@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'loginscreen.dart'; // Import the GetStartedPage from loginscreen.dart
+import 'loginscreen.dart';
 
 void main() {
   runApp(const MyApp());
